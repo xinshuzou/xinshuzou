@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "PhD"
+title                    : "Xinshu's Personal Acdemical Page"
 title_separator          : "-"
 name                     : &name "Xinshu ZOu"
 description              : &description "personal description"
