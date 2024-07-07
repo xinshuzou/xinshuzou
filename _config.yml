@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Xinshu's Personal Acdemical Page"
 title_separator          : "-"
-name                     : &name "Xinshu ZOu"
+name                     : &name "Xinshu Zou"
 description              : &description "personal description"
 url                      : https://xinshuzou.github.io/xinshuzou/ # the base hostname & protocol for your site e.g. "https://xinshuzou.github.io/xinshuzou/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xinshu Zou"
   pronouns         : # example: "she/her"  
   bio              : "PhD"
   location         : "Norway"
   employer         : "Norwegain University of Science and Technology, Shanghai Jiao Tong University"
-  uri              : # URL
+  uri              : https://xinshuzou.github.io/xinshuzou/
   email            : "xinshu.zou@ntnu.no" 
 
   # Academic websites
