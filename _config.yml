@@ -12,7 +12,7 @@ title                    : "Xinshu's Personal Acdemical Page"
 title_separator          : "-"
 name                     : &name "Xinshu ZOu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://xinshuzou.github.io/xinshuzou/"
+url                      : https://xinshuzou.github.io/xinshuzou/ # the base hostname & protocol for your site e.g. "https://xinshuzou.github.io/xinshuzou/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
